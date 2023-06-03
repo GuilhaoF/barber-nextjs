@@ -11,7 +11,13 @@ O BarberPro um sistema de barbearia onde posso fazer várias operações como ca
 Desktop
 
 <p align="center"> 
- <img src="" alt="app-desktop"/>
+ <img width="768px" height="400px"src="https://github.com/GuilhaoF/barber-nextjs/assets/67026555/7b3c6d8a-a613-46ed-ae70-5fd1e985a4b3" alt="app-desktop"/>
+</p>
+
+Mobile
+
+<p align="center"> 
+ <img src="https://github.com/GuilhaoF/barber-nextjs/assets/67026555/d75051c3-c658-40fb-a424-f3be8d0a9a6c" alt="app-desktop"/>
 </p>
 
 ## Funcionando
@@ -22,12 +28,12 @@ Desktop
 
 ## 🚀 Tecnologias e Bibliotecas Ultilizadas
 
-- [NextJS]()
-- [Typescript]()
-- [Axios]()
-- [ChakraUi]()
-- [Nookies]()
-- [Stript]()
+- [NextJS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/)
+- [ChakraUi](https://chakra-ui.com/getting-started)
+- [Nookies](https://www.npmjs.com/package/nookies)
+- [Stripe](https://stripe.com/docs)
 
 ## Clonar o repositório
 
